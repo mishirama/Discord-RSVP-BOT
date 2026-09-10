@@ -1,0 +1,186 @@
+{
+    "target_date": "2026-09-10",
+    "is_closed": false,
+    "data": {
+        "Builder": [],
+        "Elephant": [],
+        "Flag": [
+            "[RB] Killua"
+        ],
+        "FT": [],
+        "Hwacha": [
+            "[RB] Touwa"
+        ],
+        "Shai": [
+            "[TC] Six7",
+            "[RB] Shai God"
+        ],
+        "Shotcaller": [],
+        "Witch/Wizard": [
+            "[Ego] Mishirama"
+        ],
+        "Main Ball": [
+            "[RB] Sherzinger",
+            "[TC] Alexis",
+            "[TC] forget",
+            "[TC] Shigeruu",
+            "[RB] BlekMgicLoli",
+            "[RB] Hilmanh",
+            "[TC] Pwincess Mayve",
+            "[RB] Sangmane",
+            "[TC] Eocene",
+            "[RB] Gestella",
+            "[RB] Urva",
+            "[RB] Reflesh",
+            "[RB] Rizky",
+            "[RB] Armoun",
+            "[TC]Hiiro",
+            "[TC] TeeRaw",
+            "[RB] Hizume",
+            "[TC] Reindl",
+            "[TC] WeiQian",
+            "[TC] Diangod"
+        ]
+    },
+    "waitlist": {
+        "Builder": [],
+        "Elephant": [],
+        "Flag": [],
+        "FT": [],
+        "Hwacha": [],
+        "Shai": [],
+        "Shotcaller": [],
+        "Witch/Wizard": [],
+        "Main Ball": []
+    },
+    "member_data": {
+        "Builder": [],
+        "Elephant": [],
+        "Flag": [
+            {
+                "id": "131982674595151873",
+                "name": "[RB] Killua"
+            }
+        ],
+        "FT": [],
+        "Hwacha": [
+            {
+                "id": "222001477156208640",
+                "name": "[RB] Touwa"
+            }
+        ],
+        "Shai": [
+            {
+                "id": "602872096623951885",
+                "name": "[TC] Six7"
+            },
+            {
+                "id": "349879299341287434",
+                "name": "[RB] Shai God"
+            }
+        ],
+        "Shotcaller": [],
+        "Witch/Wizard": [
+            {
+                "id": "400613792825999360",
+                "name": "[Ego] Mishirama"
+            }
+        ],
+        "Main Ball": [
+            {
+                "id": "254914458445545472",
+                "name": "[RB] Sherzinger"
+            },
+            {
+                "id": "365458687923322892",
+                "name": "[TC] Alexis"
+            },
+            {
+                "id": "412268817972985856",
+                "name": "[TC] forget"
+            },
+            {
+                "id": "397029946792607745",
+                "name": "[TC] Shigeruu"
+            },
+            {
+                "id": "901762532371497010",
+                "name": "[RB] BlekMgicLoli"
+            },
+            {
+                "id": "424509666660188170",
+                "name": "[RB] Hilmanh"
+            },
+            {
+                "id": "438245294094811137",
+                "name": "[TC] Pwincess Mayve"
+            },
+            {
+                "id": "388569184952647680",
+                "name": "[RB] Sangmane"
+            },
+            {
+                "id": "407518710069460994",
+                "name": "[TC] Eocene"
+            },
+            {
+                "id": "232140750178091018",
+                "name": "[RB] Gestella"
+            },
+            {
+                "id": "670525910612574220",
+                "name": "[RB] Urva"
+            },
+            {
+                "id": "414087519899090970",
+                "name": "[RB] Reflesh"
+            },
+            {
+                "id": "302235677393944578",
+                "name": "[RB] Rizky"
+            },
+            {
+                "id": "275902037659746304",
+                "name": "[RB] Armoun"
+            },
+            {
+                "id": "318300403055984640",
+                "name": "[TC]Hiiro"
+            },
+            {
+                "id": "442127564698288139",
+                "name": "[TC] TeeRaw"
+            },
+            {
+                "id": "685907488528138305",
+                "name": "[RB] Hizume"
+            },
+            {
+                "id": "1401183553651343485",
+                "name": "[TC] Reindl"
+            },
+            {
+                "id": "471217316764319746",
+                "name": "[TC] WeiQian"
+            },
+            {
+                "id": "152435092868825088",
+                "name": "[TC] Diangod"
+            }
+        ]
+    },
+    "member_waitlist": {
+        "Builder": [],
+        "Elephant": [],
+        "Flag": [],
+        "FT": [],
+        "Hwacha": [],
+        "Shai": [],
+        "Shotcaller": [],
+        "Witch/Wizard": [],
+        "Main Ball": []
+    },
+    "session_type": "siege",
+    "main_msg_id": "1547631650442321951",
+    "waitlist_msg_id": "1547631656041586709"
+}

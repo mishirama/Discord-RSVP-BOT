@@ -1,0 +1,47 @@
+{
+    "target_date": "2026-09-11",
+    "is_closed": false,
+    "data": {
+        "Builder": [],
+        "Elephant": [],
+        "Flag": [],
+        "FT": [],
+        "Hwacha": [],
+        "Shai": [],
+        "Shotcaller": [],
+        "Main Ball": []
+    },
+    "waitlist": {
+        "Builder": [],
+        "Elephant": [],
+        "Flag": [],
+        "FT": [],
+        "Hwacha": [],
+        "Shai": [],
+        "Shotcaller": [],
+        "Main Ball": []
+    },
+    "member_data": {
+        "Builder": [],
+        "Elephant": [],
+        "Flag": [],
+        "FT": [],
+        "Hwacha": [],
+        "Shai": [],
+        "Shotcaller": [],
+        "Main Ball": []
+    },
+    "member_waitlist": {
+        "Builder": [],
+        "Elephant": [],
+        "Flag": [],
+        "FT": [],
+        "Hwacha": [],
+        "Shai": [],
+        "Shotcaller": [],
+        "Main Ball": []
+    },
+    "session_type": "node",
+    "main_msg_id": "1547628923460911176",
+    "waitlist_msg_id": "1547628925725966349"
+}

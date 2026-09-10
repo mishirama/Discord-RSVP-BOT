@@ -1,0 +1,15 @@
+{
+  "name": "discord-bot-rsvp",
+  "version": "1.0.0",
+  "description": "Node War RSVP Discord bot with web dashboard",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^17.4.2",
+    "express": "^4.19.2",
+    "moment-timezone": "^0.5.45"
+  }
+}
